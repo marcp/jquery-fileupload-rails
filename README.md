@@ -1,6 +1,6 @@
 # jQuery File Upload for Rails
 
-[jQuery-File-Plugin][1] is a file upload plugin written by [Sebastian Tschan][2]. jQuery File Upload features multiple file selection, drag&drop support, progress bars and preview images for jQuery. Supports cross-domain, chunked and resumable file uploads and client-side image resizing.
+[jQuery-File-Upload][1] is a file upload plugin written by [Sebastian Tschan][2]. jQuery File Upload features multiple file selection, drag&drop support, progress bars and preview images for jQuery. Supports cross-domain, chunked and resumable file uploads and client-side image resizing.
 
 `jquery-fileupload-rails` is a library that integrates jQuery File Upload for Rails 3 and 4 Asset Pipeline.
 
